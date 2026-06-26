@@ -1,3 +1,3 @@
 # mein-Weltall
 Weltall infos 
-![Logo](weltall.png)
+![Logo](bilder/Weltall.png)
